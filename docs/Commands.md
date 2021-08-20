@@ -26,7 +26,7 @@ title: Commands
     - **Usage:** `!playtop <link/query>`
     - **Aliases:** `pt`, `ptop`
 ---
-- **`!playskip`** - Skips the current song and plays the song you requested.
+- **`!skip`** - Skips the current song and plays the song you requested.
     - **Usage:** `!playskip <link/query>`
     - **Aliases:** `ps`, `pskip`, `playnow`, `pn`
 ---
@@ -68,7 +68,7 @@ title: Commands
     - **Aliases:** `fs`, `fskip`
     - **Note:** `DJ` role/`Manage Channels` permission required.
 ---
-- **`!pause`** - Pauses the current playing track.
+- **`!stop`** - Pauses the current playing track.
     - **Alias:** `stop`
 ---
 - **`!resume`** - Resumes paused music.
